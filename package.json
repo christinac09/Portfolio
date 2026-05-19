@@ -9,9 +9,11 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
-    "@nuxt/content": "^3.13.0",
+    "@nuxt/content": "^3.14.0",
     "@nuxt/fonts": "^0.14.0",
+    "@tailwindcss/vite": "^4.3.0",
     "better-sqlite3": "^12.9.0",
-    "nuxt": "^4.4.4"
+    "nuxt": "^4.4.4",
+    "tailwindcss": "^4.3.0"
   }
 }
