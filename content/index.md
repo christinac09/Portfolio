@@ -1,6 +1,3 @@
-::AppHeader
-::
-
 # About Content Version 3
 
 brief intro about me
