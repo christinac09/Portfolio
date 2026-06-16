@@ -10,7 +10,7 @@
         class="block p-4 border border-gray-800 rounded hover:border-cyan-500"
       >
         <h2 class="text-xl font-semibold">{{ post.title }}</h2>
-        <p class="text-text">{{ post.description }}</p>
+        <p class="text-neutral">{{ post.description }}</p>
       </NuxtLink>
     </div>
   </div>

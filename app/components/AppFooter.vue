@@ -1,5 +1,5 @@
 <template>
-  <footer class="border-t border-gray-800 p-6 text-center text-sm text-text">
+  <footer class="border-t border-gray-800 p-6 text-center text-sm text-neutral">
     contact info stuff
   </footer>
 </template>

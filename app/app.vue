@@ -1,13 +1,9 @@
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
+  <div data-theme="light">
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </div>
 </template>
 
-<script setup>
-const theme = useState("theme", () => "dark");
-
-watch(theme, (value) => {
-  document.documentElement.classList.toggle("light", value === "light");
-});
-</script>
+<script setup></script>
