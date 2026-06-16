@@ -1,3 +1,0 @@
-# Blogs
-
-[Back to home](/)

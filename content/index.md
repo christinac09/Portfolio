@@ -1,14 +1,24 @@
-# About Content Version 3
+# Welcome to Nuxt Content Starter
 
-brief intro about me
+This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
 
-diff sections,
-footnote w contact info
+Move to [about](/about) page.
 
-prob header to go to other pages & change color mode
+## Manage your Contents
 
-[about](/about)
+Create new pages or modify the existing ones in `content/` directory.
 
-[projects](/projects)
+## Query & Render Pages
 
-[blogs](/blogs)
+You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/nuxt/starter/blob/content/app/pages/%5B...slug%5D.vue)
+
+## Integrate Vue Component
+
+::alert{color="green"}
+The current [alert](https://github.com/nuxt/starter/blob/content/app/components/Alert.vue) and the [counter](https://github.com/nuxt/starter/blob/content/app/components/Counter.vue) below are `Vue` components integrated into the Markdown.
+::
+
+::counter
+::
+
+Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
