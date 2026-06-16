@@ -1,0 +1,22 @@
+:root {
+  --background: #2c394c;
+  --surface: #111827;  /* what is surface?? */
+  --primary: #e7779f;
+  --secondary: ##6bc5ea;
+  --text: #f8f4e9;
+}
+
+/* LIGHT MODE */
+.light {
+  --background: #fef9ec;
+  --surface: #f3f4f6;
+  --primary: #2c7aa7;
+  --secondary: #fb4669;
+  --text: #2c394c;
+}
+
+/* 
+//color palette:
+// dark: https://huemint.com/website-2/#palette=2c394c-f8f4e9-e7779f-6bc5ea
+//light: https://huemint.com/website-2/#palette=fef9ec-2c394c-2c7aa7-fb4669 */
+
